@@ -1,0 +1,3 @@
+sudo nginx -c /home/huangyiyang/github/huangyiyang.top/nginx.conf
+sudo nginx -s stop -c /home/huangyiyang/github/huangyiyang.top/nginx.conf
+sudo nginx -s reload
